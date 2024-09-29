@@ -1,6 +1,6 @@
-## 🎉 Birthday Greeting Webpage 
+## 🎉 Birthday Greeting Webpage  (credits to fajarghifar)
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+[Demo](https://aryanshahu.github.io/manasvi-birthday/)
 
 ## 🚀 How to Use
 
